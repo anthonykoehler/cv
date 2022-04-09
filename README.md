@@ -1,2 +1,2 @@
 # cv
-personal webstie
+personal website
